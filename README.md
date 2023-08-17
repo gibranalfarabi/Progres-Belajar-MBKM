@@ -28,3 +28,10 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
   * Belajar tentang HTML dan CSS.
   * Belajar tentang Comment pada bahasa pemrograman.
   * Belajar tentang Pengarsipan Versi Perangkat Lunak, Style Guide, dan Dokumentasi Teknis Aplikasi.
+
+**Jumat, 18 Agustus 2023**  
+Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
+  * Belajar tentang perbedaan antara Logika dan Algoritma.
+  * Belajar tentang Penalaran Logika Induktif dan Deduktif.
+  * Belajar tentang Gerbang Logika beserta macam-macamnya.
+  * Belajar tentang Computational Thinking.
