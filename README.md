@@ -35,3 +35,9 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
   * Belajar tentang Penalaran Logika Induktif dan Deduktif.
   * Belajar tentang Gerbang Logika beserta macam-macamnya.
   * Belajar tentang Computational Thinking.
+
+**Senin, 21 Agustus 2023**  
+Belajar Dasar Pemrograman Web. (Progres 30%)
+  * Belajar tentang bagaimana cara Internet bekerja.
+  * Belajar tentang konsep Website, Halaman Web, Web Browser, Web Server, dan Anatomi Website.
+  * Belajar tentang elemen-elemen pada HTML, seperti Paragraf, Heading, List, Table, Image, Input User, dll.
