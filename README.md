@@ -39,5 +39,12 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 **Senin, 21 Agustus 2023**  
 Belajar Dasar Pemrograman Web. (Progres 30%)
   * Belajar tentang bagaimana cara Internet bekerja.
+  * Belajar tentang apa itu HTML.
   * Belajar tentang konsep Website, Halaman Web, Web Browser, Web Server, dan Anatomi Website.
   * Belajar tentang elemen-elemen pada HTML, seperti Paragraf, Heading, List, Table, Image, Input User, dll.
+
+**Selasa, 22 Agustus 2023**  
+Belajar Dasar Pemrograman Web. (Progres 60%)
+  * Belajar tentang styling pada halaman profil menggunakan CSS.
+  * Belajar tentang macam-macam selector pada CSS.
+  * Belajar tentang Formatting Text, Font Styling, dan Text Styling.
