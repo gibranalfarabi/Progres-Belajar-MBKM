@@ -48,3 +48,11 @@ Belajar Dasar Pemrograman Web. (Progres 60%)
   * Belajar tentang styling pada halaman profil menggunakan CSS.
   * Belajar tentang macam-macam selector pada CSS.
   * Belajar tentang Formatting Text, Font Styling, dan Text Styling.
+
+**Rabu, 23 Agustus 2023**  
+Belajar Dasar Pemrograman Web. (Progres 90%)
+  * Belajar tentang Pewarnaan, Opacity, dan Box Model pada CSS.
+  * Belajar tentang macam-macam Positioning yaitu Normal Flow, Relative, Absolute, dan Fixed.
+  * Belajar tentang Floating, Clear Property, dan Teknik Overflow.
+  * Belajar tentang Konfigurasi Meta Tag Viewport.
+  * Belajar tentang Spesific Style dengan Media Query.
