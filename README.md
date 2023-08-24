@@ -56,3 +56,8 @@ Belajar Dasar Pemrograman Web. (Progres 90%)
   * Belajar tentang Floating, Clear Property, dan Teknik Overflow.
   * Belajar tentang Konfigurasi Meta Tag Viewport.
   * Belajar tentang Spesific Style dengan Media Query.
+
+**Kamis, 24 Agustus 2023**  
+Belajar Dasar Pemrograman Web. (Progres 100%)
+  * Belajar tentang Layout Responsif dengan Flexbox.
+  * Belajar tentang macam-macam properti pada Flex Container dan Flex Items.
