@@ -36,6 +36,8 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
   * Belajar tentang Gerbang Logika beserta macam-macamnya.
   * Belajar tentang Computational Thinking.
 
+---------------------------------------------------------------------------------------------------
+
 **Senin, 21 Agustus 2023**  
 Belajar Dasar Pemrograman Web. (Progres 30%)
   * Belajar tentang bagaimana cara Internet bekerja.
@@ -61,3 +63,11 @@ Belajar Dasar Pemrograman Web. (Progres 90%)
 Belajar Dasar Pemrograman Web. (Progres 100%)
   * Belajar tentang Layout Responsif dengan Flexbox.
   * Belajar tentang macam-macam properti pada Flex Container dan Flex Items.
+
+---------------------------------------------------------------------------------------------------
+
+**Senin, 28 Agustus 2023**  
+Belajar Dasar Pemrograman JavaScript. (Progres 25%)
+  * Belajar tentang apa itu JavaScript.
+  * Belajar tentang basic pada JavaScript seperti Comments, Variable, Tipe Data, Operator, If Else Statement, Switch Case Statement dan Loop.
+  * Belajar tentang struktur data pada JavaScript seperti Object, Array, Spread Operator, Destructuring, Map, dan Set.
