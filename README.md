@@ -1,6 +1,7 @@
 # Progres-Belajar-MBKM
-### Repository ini berisi pengalaman belajar dalam program MBKM di Dicoding Academy  
-  
+## Repository ini berisi pengalaman belajar dalam program MBKM di Dicoding Academy  
+
+### Minggu Pertama
 **Senin, 14 Agustus 2023**  
 Belajar Dasar Git dengan GitHub. (Progres 25%)
   * Belajar tentang apa itu Git dan GitHub.
@@ -38,6 +39,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 
 ---------------------------------------------------------------------------------------------------
 
+### Minggu Kedua
 **Senin, 21 Agustus 2023**  
 Belajar Dasar Pemrograman Web. (Progres 30%)
   * Belajar tentang bagaimana cara Internet bekerja.
@@ -66,6 +68,7 @@ Belajar Dasar Pemrograman Web. (Progres 100%)
 
 ---------------------------------------------------------------------------------------------------
 
+### Minggu Ketiga
 **Senin, 28 Agustus 2023**  
 Belajar Dasar Pemrograman JavaScript. (Progres 25%)
   * Belajar tentang apa itu JavaScript.
