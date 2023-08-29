@@ -73,3 +73,10 @@ Belajar Dasar Pemrograman JavaScript. (Progres 25%)
   * Belajar tentang apa itu JavaScript.
   * Belajar tentang basic pada JavaScript seperti Comments, Variable, Tipe Data, Operator, If Else Statement, Switch Case Statement dan Loop.
   * Belajar tentang struktur data pada JavaScript seperti Object, Array, Spread Operator, Destructuring, Map, dan Set.
+
+**Selasa, 29 Agustus 2023**  
+Belajar Dasar Pemrograman JavaScript. (Progres 50%)
+  * Belajar tentang Function pada JavaScript.
+  * Belajar tentang Declaring Function, Function Parameter, Arrow Function, Variable Scope, dan Closure.
+  * Belajar tentang OOP pada JavaScript.
+  * Belajar tentang Constructor Function, Properti dan Method, Pewarisan, Overriding, Object Composition, dan Built-in Class.
