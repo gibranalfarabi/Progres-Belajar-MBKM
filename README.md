@@ -80,3 +80,10 @@ Belajar Dasar Pemrograman JavaScript. (Progres 50%)
   * Belajar tentang Declaring Function, Function Parameter, Arrow Function, Variable Scope, dan Closure.
   * Belajar tentang OOP pada JavaScript.
   * Belajar tentang Constructor Function, Properti dan Method, Pewarisan, Overriding, Object Composition, dan Built-in Class.
+
+**Rabu, 30 Agustus 2023**  
+Belajar Dasar Pemrograman JavaScript. (Progres 70%)
+  * Belajar tentang Functional Programming pada JavaScript.
+  * Belajar tentang konsep Functional Programming seperti Pure Function, Immutability, Recursive, dan High Order Function.
+  * Belajar tentang Reusable Function seperti Array Map, Filter, Reduce, Some, Find, Sort, Every, dan forEach.
+  * Belajar tentang Module pada JavaScript mengenai Export dan Import.
