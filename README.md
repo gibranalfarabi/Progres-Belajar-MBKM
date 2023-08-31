@@ -87,3 +87,10 @@ Belajar Dasar Pemrograman JavaScript. (Progres 70%)
   * Belajar tentang konsep Functional Programming seperti Pure Function, Immutability, Recursive, dan High Order Function.
   * Belajar tentang Reusable Function seperti Array Map, Filter, Reduce, Some, Find, Sort, Every, dan forEach.
   * Belajar tentang Module pada JavaScript mengenai Export dan Import.
+
+**Kamis, 31 Agustus 2023**  
+Belajar Dasar Pemrograman JavaScript. (Progres 90%)
+  * Belajar tentang Penanganan Error pada JavaScript.
+  * Belajar tentang Try dan Catch, Throwing Errors, dan Custom Error.
+  * Belajar tentang Asynchronous Process pada JavaScript.
+  * Belajar tentang setTimeout Function, serta Asynchronous Handling dengan Callback dan Promise.
