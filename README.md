@@ -94,3 +94,14 @@ Belajar Dasar Pemrograman JavaScript. (Progres 90%)
   * Belajar tentang Try dan Catch, Throwing Errors, dan Custom Error.
   * Belajar tentang Asynchronous Process pada JavaScript.
   * Belajar tentang setTimeout Function, serta Asynchronous Handling dengan Callback dan Promise.
+
+**Jumat, 1 September 2023**  
+Belajar Dasar Pemrograman JavaScript. (Progres 100%)
+  * Belajar tentang apa itu Node Package Manager (NPM) pada JavaScript.
+  * Belajar tentang menggunakan Package pada JavaScript.
+  * Belajar tentang Testing pada JavaScript.
+  * Belajar tentang Unit Testing, serta Tools yang digunakan seperti Pure Library atau Framework Environment.
+
+---------------------------------------------------------------------------------------------------
+
+### Minggu Keempat
