@@ -105,3 +105,11 @@ Belajar Dasar Pemrograman JavaScript. (Progres 100%)
 ---------------------------------------------------------------------------------------------------
 
 ### Minggu Keempat
+**Senin, 4 September 2023**  
+Belajar Membuat Front-End Web untuk Pemula. (Progres 50%)
+  * Belajar tentang apa itu Browser Object Model (BOM) dan Document Object Model (DOM).
+  * Belajar tentang Method pada BOM seperti Alert, Prompt, dan Console.
+  * Belajar tentang DOM Tree dan cara mendapat/mencari DOM.
+  * Belajar tentang cara menambahkan elemen HTML ke DOM.
+  * Belajar tentang Event beserta macam-macamnya.
+  * Belajar tentang menambahkan Event Handler dan Custom Event.
