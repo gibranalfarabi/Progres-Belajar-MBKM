@@ -113,3 +113,9 @@ Belajar Membuat Front-End Web untuk Pemula. (Progres 50%)
   * Belajar tentang cara menambahkan elemen HTML ke DOM.
   * Belajar tentang Event beserta macam-macamnya.
   * Belajar tentang menambahkan Event Handler dan Custom Event.
+
+**Selasa, 5 September 2023**  
+Belajar Membuat Front-End Web untuk Pemula. (Progres 75%)
+  * Belajar tentang Event Bubbling dan Event Capturing.
+  * Belajar tentang Event pada elemen Form seperti onSubmit.
+  * Belajar tentang Event pada elemen Input seperti onInput, onFocus, onBlur, onChange, onCopy, dan onPaste.
