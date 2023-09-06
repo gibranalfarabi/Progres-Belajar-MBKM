@@ -119,3 +119,10 @@ Belajar Membuat Front-End Web untuk Pemula. (Progres 75%)
   * Belajar tentang Event Bubbling dan Event Capturing.
   * Belajar tentang Event pada elemen Form seperti onSubmit.
   * Belajar tentang Event pada elemen Input seperti onInput, onFocus, onBlur, onChange, onCopy, dan onPaste.
+
+**Rabu, 6 September 2023**  
+Belajar Membuat Front-End Web untuk Pemula. (Progres 100%)
+  * Belajar tentang apa itu Web Storage beserta kegunaannya.
+  * Belajar tentang macam-macam Web Storage yaitu Local Storage dan Session Storage.
+  * Belajar tentang fungsi pada Web Storage seperti setItem() dan getItem().
+  * Belajar tentang menyimpan dan mendapatkan data kompleks menggunakan JSON.parse() dan JSON.stringify().
