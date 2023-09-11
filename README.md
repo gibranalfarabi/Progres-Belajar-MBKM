@@ -126,3 +126,13 @@ Belajar Membuat Front-End Web untuk Pemula. (Progres 100%)
   * Belajar tentang macam-macam Web Storage yaitu Local Storage dan Session Storage.
   * Belajar tentang fungsi pada Web Storage seperti setItem() dan getItem().
   * Belajar tentang menyimpan dan mendapatkan data kompleks menggunakan JSON.parse() dan JSON.stringify().
+
+---------------------------------------------------------------------------------------------------
+
+### Minggu Kelima
+**Senin, 11 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progres 15%)
+  * Belajar tentang standard ECMAScript 6 pada JavaScript.
+  * Belajar tentang Deklarasi Variabel menggunakan ES6.
+  * Belajar tentang Template Literals menggunakan ES6.
+  * Belajar tentnag Destructuring Object dan Array menggunakan ES6.
