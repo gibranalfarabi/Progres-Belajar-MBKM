@@ -136,3 +136,34 @@ Belajar Fundamental Front-End Web Development. (Progres 15%)
   * Belajar tentang Deklarasi Variabel menggunakan ES6.
   * Belajar tentang Template Literals menggunakan ES6.
   * Belajar tentnag Destructuring Object dan Array menggunakan ES6.
+
+**Selasa, 12 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progres 30%)
+  * Belajar tentang penggunaan Spread Operator dan Rest Parameter.
+  * Belajar tentang Arrow Function pada ES6.
+  * Belajar tentang OOP seperti Class, Constructor, Instance, Inheritance, Method, dll.
+  * Belajar tentang Asynchronous Process menggunakan setTimeOut dan Promise pada ES6.
+
+**Rabu, 13 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progres 45%)
+  * Belajar tentang Callback Function dan Callback Hell.
+  * Belajar tentang Fungsi onFulfilled dan onRejected pada Promise.
+  * Belajar tentang Catch Method, Promise Berantai, Teknik Promise All, serta Sintaks Async dan Await.
+
+**Kamis, 14 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progres 60%)
+  * Belajar tentang ES6 Module.
+  * Belajar tentang Sintaks Export dan Import pada ES6 Module.
+  * Belajar tentang Web Components dan Custom Element.
+  * Belajar tentang Atribut dan Method pada Custom Element serta menerapkan Styling pada Custom Element.
+
+**Jumat, 15 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progres 75%)
+  * Belajar tentang 
+  * Belajar tentang 
+  * Belajar tentang
+
+---------------------------------------------------------------------------------------------------
+
+### Minggu Keenam
+**Senin, 18 September 2023**  
