@@ -151,19 +151,24 @@ Belajar Fundamental Front-End Web Development. (Progress 45%)
   * Belajar tentang Catch Method, Promise Berantai, Teknik Promise All, serta Sintaks Async dan Await.
 
 **Kamis, 14 September 2023**  
-Belajar Fundamental Front-End Web Development. (Progress 60%)
+Belajar Fundamental Front-End Web Development. (Progress 55%)
   * Belajar tentang ES6 Module.
   * Belajar tentang Sintaks Export dan Import pada ES6 Module.
   * Belajar tentang Web Components dan Custom Element.
   * Belajar tentang Atribut dan Method pada Custom Element serta menerapkan Styling pada Custom Element.
 
 **Jumat, 15 September 2023**  
-Belajar Fundamental Front-End Web Development. (Progress 75%)
-  * Belajar tentang 
-  * Belajar tentang 
-  * Belajar tentang
+Belajar Fundamental Front-End Web Development. (Progress 65%)
+  * Belajar tentang Nested Custom Element.
+  * Belajar tentang Dasar Penggunaan Shadow DOM.
+  * Belajar tentang Penggunaan Shadow DOM pada Web Component.
 
 ---------------------------------------------------------------------------------------------------
 
 ### Minggu Keenam
 **Senin, 18 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progress 75%)
+  * Belajar tentang apa itu Package Manager.
+  * Belajar tentang cara memasang dan menggunakan NPM.
+  * Belajar tentang cara menjalankan Runner Scripts.
+  * Belajar tentang cara menghapus Package yang terpasang.
