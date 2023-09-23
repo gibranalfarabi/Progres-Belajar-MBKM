@@ -172,3 +172,27 @@ Belajar Fundamental Front-End Web Development. (Progress 75%)
   * Belajar tentang cara memasang dan menggunakan NPM.
   * Belajar tentang cara menjalankan Runner Scripts.
   * Belajar tentang cara menghapus Package yang terpasang.
+
+**Selasa, 19 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progress 85%)
+  * Belajar tentang apa itu Module Bundler.
+  * Belajar tentang apa itu Webpack dan 5 konsep utama pada Webpack yaitu Entry, Output, Loader, Plugin, dan Mode.
+  * Belajar tentang cara memasang dan menggunakan Webpack.
+
+**Rabu, 20 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progress 90%)
+  * Belajar tentang apa itu Webpack Dev Server.
+  * Belajar tentang Asynchronous JavaScript And XML (AJAX).
+  * Belajar tentang apa itu HTTP Request dan Web API.
+
+**Kamis, 21 September 2023**  
+Belajar Fundamental Front-End Web Development. (Progress 100%)
+  * Belajar tentang apa itu Cross-Origin Resource Sharing (CORS) dan JavaScript Object Notation (JSON).
+  * Belajar tentang cara membuat AJAX menggunakan XHR.
+  * Belajar tentang cara membuat Header dan Body Request Menggunakan XHR.
+  * Belajar tentang Dasar Penggunaan Fetch dan cara membuat AJAX menggunakan Fetch.
+
+---------------------------------------------------------------------------------------------------
+
+### Minggu Ketujuh
+**Senin, 25 September 2023**
