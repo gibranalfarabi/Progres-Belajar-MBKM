@@ -1,6 +1,7 @@
 ## Repository ini berisi pengalaman belajar dalam program MBKM di Dicoding Academy  
-
-### Minggu Pertama
+<details>
+<summary><h3>Minggu Pertama</h3></summary>
+ 
 **Senin, 14 Agustus 2023**  
 Belajar Dasar Git dengan GitHub. (Progress 25%)
   * Belajar tentang apa itu Git dan GitHub.
@@ -35,10 +36,12 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 100%)
   * Belajar tentang Penalaran Logika Induktif dan Deduktif.
   * Belajar tentang Gerbang Logika beserta macam-macamnya.
   * Belajar tentang Computational Thinking.
-
 ---------------------------------------------------------------------------------------------------
+</details>
 
-### Minggu Kedua
+<details>
+<summary><h3>Minggu Kedua</h3></summary>
+ 
 **Senin, 21 Agustus 2023**  
 Belajar Dasar Pemrograman Web. (Progress 30%)
   * Belajar tentang bagaimana cara Internet bekerja.
@@ -63,11 +66,13 @@ Belajar Dasar Pemrograman Web. (Progress 90%)
 **Kamis, 24 Agustus 2023**  
 Belajar Dasar Pemrograman Web. (Progress 100%)
   * Belajar tentang Layout Responsif dengan Flexbox.
-  * Belajar tentang macam-macam properti pada Flex Container dan Flex Items.
-
+  * Belajar tentang macam-macam properti pada Flex Container dan Flex Items.    
 ---------------------------------------------------------------------------------------------------
+</details>
 
-### Minggu Ketiga
+<details>
+<summary><h3>Minggu Ketiga</h3></summary>
+
 **Senin, 28 Agustus 2023**  
 Belajar Dasar Pemrograman JavaScript. (Progress 25%)
   * Belajar tentang apa itu JavaScript.
@@ -101,10 +106,12 @@ Belajar Dasar Pemrograman JavaScript. (Progress 100%)
   * Belajar tentang menggunakan Package pada JavaScript.
   * Belajar tentang Testing pada JavaScript.
   * Belajar tentang Unit Testing, serta Tools yang digunakan seperti Pure Library atau Framework Environment.
-
 ---------------------------------------------------------------------------------------------------
+</details>
 
-### Minggu Keempat
+<details>
+<summary><h3>Minggu Keempat</h3></summary>
+
 **Senin, 4 September 2023**  
 Belajar Membuat Front-End Web untuk Pemula. (Progress 50%)
   * Belajar tentang apa itu Browser Object Model (BOM) dan Document Object Model (DOM).
@@ -126,10 +133,12 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 100%)
   * Belajar tentang macam-macam Web Storage yaitu Local Storage dan Session Storage.
   * Belajar tentang fungsi pada Web Storage seperti setItem() dan getItem().
   * Belajar tentang menyimpan dan mendapatkan data kompleks menggunakan JSON.parse() dan JSON.stringify().
-
 ---------------------------------------------------------------------------------------------------
+</details>
 
-### Minggu Kelima
+<details>
+<summary><h3>Minggu Kelima</h3></summary>
+ 
 **Senin, 11 September 2023**  
 Belajar Fundamental Front-End Web Development. (Progress 15%)
   * Belajar tentang standard ECMAScript 6 pada JavaScript.
@@ -162,10 +171,12 @@ Belajar Fundamental Front-End Web Development. (Progress 65%)
   * Belajar tentang Nested Custom Element.
   * Belajar tentang Dasar Penggunaan Shadow DOM.
   * Belajar tentang Penggunaan Shadow DOM pada Web Component.
-
 ---------------------------------------------------------------------------------------------------
+</details>
 
-### Minggu Keenam
+<details>
+<summary><h3>Minggu Keenam</h3></summary>
+
 **Senin, 18 September 2023**  
 Belajar Fundamental Front-End Web Development. (Progress 75%)
   * Belajar tentang apa itu Package Manager.
@@ -191,8 +202,12 @@ Belajar Fundamental Front-End Web Development. (Progress 100%)
   * Belajar tentang cara membuat AJAX menggunakan XHR.
   * Belajar tentang cara membuat Header dan Body Request Menggunakan XHR.
   * Belajar tentang Dasar Penggunaan Fetch dan cara membuat AJAX menggunakan Fetch.
-
 ---------------------------------------------------------------------------------------------------
+</details>
 
-### Minggu Ketujuh
+<details>
+<summary><h3>Minggu Ketujuh</h3></summary>
+
 **Senin, 25 September 2023**
+---------------------------------------------------------------------------------------------------
+</details>
