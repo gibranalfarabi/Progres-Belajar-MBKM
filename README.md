@@ -209,5 +209,6 @@ Belajar Fundamental Front-End Web Development. (Progress 100%)
 <summary><h3>Minggu Ketujuh</h3></summary>
 
 **Senin, 25 September 2023**
+
 ---------------------------------------------------------------------------------------------------
 </details>
